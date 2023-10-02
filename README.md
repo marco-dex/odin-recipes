@@ -1,4 +1,4 @@
-## Recipes Project
+## Recipes Project
 
 This is a simple Recipes website to practice my HTML chops. 
 
