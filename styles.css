@@ -1,0 +1,17 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingredients {
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.image {
+    width: 450px;
+    height: auto;
+}
+
+.recipe-name {
+    font-weight: bold;
+}
